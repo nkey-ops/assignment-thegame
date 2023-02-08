@@ -27,3 +27,6 @@ replace any that they played.
 The game is won if the players manage to play all of the cards in the
 deck. If any player is unable to play at least two cards on their turn, the
 game is lost.
+
+
+![image](https://user-images.githubusercontent.com/81760194/217574050-683e3c76-e1f8-4c1d-8944-d004b970c7a8.png)
